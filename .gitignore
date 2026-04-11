@@ -1,0 +1,24 @@
+# Excel e dados brutos
+*.xlsx
+*.xls
+*.csv
+
+# PowerPoint
+*.pptx
+
+# Python
+*.py
+__pycache__/
+
+# Backups
+*_bkp*
+*_bkp/
+
+# Imagens e assets pesados
+*.png
+*.jpg
+*.jpeg
+
+# Pastas extraídas
+bko_extracted/
+fotos_bko/
